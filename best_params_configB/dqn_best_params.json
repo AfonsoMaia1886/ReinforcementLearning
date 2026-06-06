@@ -1,0 +1,16 @@
+{
+  "best_value": 0.686,
+  "best_params": {
+    "learning_rate": 6.363935641564612e-05,
+    "buffer_size": 50000,
+    "batch_size": 256,
+    "learning_starts": 1000,
+    "tau": 0.01,
+    "train_freq": 16,
+    "gradient_steps": 1,
+    "target_update_interval": 500,
+    "exploration_fraction": 0.4530604367997071,
+    "exploration_final_eps": 0.03571665142513526,
+    "net_arch_key": "large"
+  }
+}

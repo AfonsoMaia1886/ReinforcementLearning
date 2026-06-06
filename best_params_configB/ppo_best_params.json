@@ -1,0 +1,15 @@
+{
+  "best_value": 0.648,
+  "best_params": {
+    "learning_rate": 8.168455894760161e-05,
+    "n_steps": 1024,
+    "batch_size": 128,
+    "n_epochs": 10,
+    "gae_lambda": 0.9274152392256034,
+    "clip_range": 0.2,
+    "ent_coef": 0.00023233503515390126,
+    "vf_coef": 0.498070764044508,
+    "max_grad_norm": 0.5,
+    "net_arch_key": "small"
+  }
+}
